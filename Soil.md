@@ -1,3 +1,5 @@
+![Soil](imagenes/IMG_9910.JPG)
+
 **Soil classification and soil fertility**
 
 The relationship between soil classification and soil fertility lies in understanding various characteristics and properties of soils used for their classification:
