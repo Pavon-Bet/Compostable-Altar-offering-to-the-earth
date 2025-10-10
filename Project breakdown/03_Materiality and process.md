@@ -1,4 +1,4 @@
-![biomaterial](imagenes/CA_biomaterial.jpg)
+![biomaterial](../imagenes/CA_biomaterial.jpg)
 
 **Biomaterials**
 
@@ -6,4 +6,4 @@ The physical construction of the altar is rooted in a research-led approach to m
 
 Beyond its technical exploration, the development of these biomaterials was conceived as a participatory framework. The project also extends towards the farming community: by sharing methods for incorporating local residues, seeds and nutrients into new composites, it invites farmers to imagine their own rituals of return and regeneration. In this sense, materiality becomes not only a medium of artistic expression, but also a pedagogical and communal tool, empowering diverse actors to reinterpret the altar according to their ecological and cultural contexts.
 
-![diagram](imagenes/CA_Diagram.png)
+![diagram](../imagenes/CA_Diagram.png)
