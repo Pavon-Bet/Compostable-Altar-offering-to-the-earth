@@ -1,4 +1,4 @@
-![waste](imagenes/IMG_9865.JPG)
+![waste](../imagenes/IMG_9865.JPG)
 
 **Seasonal agricultural waste research:** 
 
