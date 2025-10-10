@@ -1,3 +1,6 @@
+
+![portada](imagenes/Compostable_altar_portdaHEC.jpg)
+
 # Compostable-Altar-offering-to-the-earth
 Compostable Altar is a research-based art and design project exploring the intersection between material experimentation, digital fabrication, and ecological intelligence. Developed during the Hungry EcoCities – S+T+ARTS Paths to Progress Experiment in collaboration with the agricultural enterprise Le Terre di Zoé (Calabria, Italy), the project investigates how biodegradable materials derived from organic waste can regenerate soil health while embodying cultural and ritual meaning.
 
