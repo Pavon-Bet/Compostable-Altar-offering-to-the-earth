@@ -6,3 +6,19 @@ The altar functions simultaneously as a sculpture, a living system, and a data-d
 By merging artistic inquiry with scientific observation, Compostable Altar proposes a new approach to regenerative design—one where decay is not failure, but transformation. It envisions circular practices in which matter, data, and ritual converge to form new narratives of care and sustainability.
 
 This open repository aims to share methodologies and invite further experimentation, enabling others—designers, researchers, farmers, and educators—to replicate, adapt, or extend the project in new ecological and cultural contexts.
+
+-
+
+This project is developed by Betiana Pavón in collaboration with the organic farm “Le Terre di Zoè” as part of the Hungry EcoCities initiative STARTS.eu.
+
+Mentored by In4Art, Mendel University & Studio Other Spaces.
+
+The Hungry EcoCities project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement 101069990.
+
+-
+Key collaborators in this project
+ 
+– Andres Vazquez, Agricultural Engineer Advisor
+– Carmen Robres de Veciana, Electronics & AI Researcher
+– Mateus Sartori, Parametric coding Grasshopper
+– Jet Clay, open-source 3D printing development
