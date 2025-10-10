@@ -18,7 +18,7 @@ The Hungry EcoCities project has received funding from the European Union’s Ho
 -
 Key collaborators in this project
  
-– Andres Vazquez, Agricultural Engineer Advisor
-– Carmen Robres de Veciana, Electronics & AI Researcher
-– Mateus Sartori, Parametric coding Grasshopper
-– Jet Clay, open-source 3D printing development
+- Andres Vazquez, Agricultural Engineer Advisor
+- Carmen Robres de Veciana, Electronics & AI Researcher
+- Mateus Sartori, Parametric coding Grasshopper
+- Jet Clay, open-source 3D printing development
