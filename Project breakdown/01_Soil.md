@@ -1,4 +1,4 @@
-![Soil](imagenes/IMG_9910.JPG)
+![Soil](..imagenes/IMG_9910.JPG)
 
 **Soil classification and soil fertility**
 
@@ -41,7 +41,7 @@ The pH of the soil directly influences the absorption of nutrients.
 Higher pH values reduce the availability of micronutrients such as copper, iron, manganese, and zinc. More acidic pH decreases the availability of molybdenum, chlorine, and boron, in addition to increasing the solubility of aluminum.
 For most crops, the recommended pH range is between 6 to 6.5. Check the graph below for the availability of macro and micronutrients based on soil pH.
 
-![graphic](imagenes/Captura%20de%20pantalla%202025-10-10%20143549.png)
+![graphic](..imagenes/Captura%20de%20pantalla%202025-10-10%20143549.png)
 
 
 
