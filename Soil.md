@@ -1,4 +1,4 @@
-**negrita**#Soil classification and soil fertility
+**Soil classification and soil fertility**
 
 The relationship between soil classification and soil fertility lies in understanding various characteristics and properties of soils used for their classification:
 Color: relates to soil formation processes;
@@ -15,7 +15,7 @@ The relationship between soil classification and soil fertility is closely inter
 4.	Cation Exchange Capacity (CEC): Soil CEC refers to the soil's ability to retain and exchange essential nutrients for plants, such as calcium, magnesium, and potassium. Soils with high CEC tend to be more fertile as they can supply nutrients to plants for longer periods.
 5.	Drainage and Aeration: Soil classification also considers soil drainage and aeration, which are important for plant root development and oxygen availability. Well-drained and aerated soils are usually more fertile as they promote a conducive environment for plant growth.
 
-#Physical analysis
+**Physical analysis**
 
 Physical analysis characterizes the soil regarding the proportion of sand, silt, and clay content. In other words, this evaluation determines the soil texture. There is no need to perform physical analysis of the soil more than once.
 This is because soil texture is one of the properties that undergoes the least change over time. However, if you are not familiar with the soil texture where the crop will be installed, it is recommended to conduct this evaluation.
@@ -27,18 +27,18 @@ Knowing the soil texture is essential for management purposes. This attribute in
 ●	Water retention capacity;
 ●	Soil particle adhesion.
 
-#Chemical analysis
+**Chemical analysis**
 
 The chemical analysis of soil aims to determine soil fertility, i.e., the ability of a particular soil to supply nutrients to agricultural crops.
 In this assessment, chemical extractants are used to simulate the extraction of nutrients by plants. This allows quantifying which macro and micronutrients are available.
 Chemical analysis also determines active, exchangeable, and titratable acidity, soil cation exchange capacity (CEC), and organic matter content. Thus, liming and fertilization recommendations are made based on soil conditions and the nutritional requirements of the species.
 
-#Active Acidity or pH
+**Active Acidity or pH**
 
 The pH of the soil directly influences the absorption of nutrients.
 Higher pH values reduce the availability of micronutrients such as copper, iron, manganese, and zinc. More acidic pH decreases the availability of molybdenum, chlorine, and boron, in addition to increasing the solubility of aluminum.
 For most crops, the recommended pH range is between 6 to 6.5. Check the graph below for the availability of macro and micronutrients based on soil pH.
 
-![Graphic]imagenes/Captura de pantalla 2025-10-10 143549.png
+![Graphic]imagenes/(Captura de pantalla 2025-10-10 143549.png)
 
 
