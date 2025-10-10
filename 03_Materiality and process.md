@@ -1,3 +1,5 @@
+![biomaterial](imagenes/CA_biomaterial.jpg)
+
 **Biomaterials**
 
 The physical construction of the altar is rooted in a research-led approach to material innovation. It is composed entirely of experimental biomaterials derived from locally sourced organic waste—primarily agricultural by-products such as vegetable fibers, citrus peels, and pulp discarded from regional juice production. These organic residues are combined with natural binders like starches, alginates, and plant-based gums & micro-nutrients creating a biodegradable and compostable composite material that interacts dynamically with its environment.
