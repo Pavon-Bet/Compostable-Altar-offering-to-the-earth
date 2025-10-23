@@ -1,4 +1,4 @@
-![sensors](../../imagenes/6N5A9370.jpg)
+![sensors](../imagenes/6N5A9370.jpg)
 
 **Ecological Monitoring as Expanded Aesthetics**
 
